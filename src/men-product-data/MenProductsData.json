@@ -1,0 +1,197 @@
+[
+    {
+        "id": 1,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/09/05/14/37/t-shirt-1647384_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/03/28/09/22/coat-2181770_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Classic Cotton Tee",
+        "colors": "White + 5 Colors",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "images": [
+            "https://cdn.pixabay.com/photo/2015/03/26/09/47/shirt-690095_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/08/06/14/05/man-2591877_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/clothes-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/05/04/16/37/men-s-fashion-2284620_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Casual Linen Shirt",
+        "colors": "Blue + 3 Colors",
+        "price": 45
+    },
+    {
+        "id": 3,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/01/jeans-1869836_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jeans-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg"
+        ],
+        "isNew": false,
+        "productName": "Straight Fit Jeans",
+        "colors": "Dark Wash + 2 Colors",
+        "price": 80
+    },
+    {
+        "id": 4,
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/03/28/09/22/coat-2181770_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jacket-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Bomber Jacket",
+        "colors": "Black + 2 Colors",
+        "price": 95
+    },
+    {
+        "id": 5,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/shorts-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/shorts-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/shorts-1869889_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Cargo Shorts",
+        "colors": "Khaki + 3 Colors",
+        "price": 35
+    },
+    {
+        "id": 6,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/training-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg"
+        ],
+        "isNew": false,
+        "productName": "Performance Training Tee",
+        "colors": "Grey + 4 Colors",
+        "price": 40
+    },
+    {
+        "id": 7,
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/03/28/09/22/coat-2181770_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jacket-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Leather Biker Jacket",
+        "colors": "Black + 1 Color",
+        "price": 120
+    },
+    {
+        "id": 8,
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/shorts-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/shorts-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/shorts-1869889_1280.jpg"
+        ],
+        "isNew": false,
+        "productName": "Athletic Running Shorts",
+        "colors": "Navy Blue + 2 Colors",
+        "price": 30
+    },
+    {
+        "id": 9,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/training-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Compression Leggings",
+        "colors": "Black + 1 Color",
+        "price": 50
+    },
+    {
+        "id": 10,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jacket-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jacket-1869889_1280.jpg"
+        ],
+        "isNew": false,
+        "productName": "Puffer Winter Coat",
+        "colors": "Charcoal Grey + 2 Colors",
+        "price": 150
+    },
+    {
+        "id": 11,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/01/jeans-1869836_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jeans-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Slim Fit Denim Jeans",
+        "colors": "Indigo Blue + 1 Color",
+        "price": 90
+    },
+    {
+        "id": 12,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/training-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Running Shoes",
+        "colors": "White + 3 Colors",
+        "price": 110
+    },
+    {
+        "id": 13,
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/03/28/09/22/coat-2181770_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/jacket-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/31/17/45/jeans-2564607_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Leather Biker Jacket",
+        "colors": "Black + 1 Color",
+        "price": 120
+    },
+    {
+        "id": 14,
+        "images": [
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/shorts-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/shorts-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/shorts-1869889_1280.jpg"
+        ],
+        "isNew": false,
+        "productName": "Athletic Running Shorts",
+        "colors": "Navy Blue + 2 Colors",
+        "price": 30
+    },
+    {
+        "id": 15,
+        "images": [
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/09/07/08/54/fashion-2724241_1280.jpg",
+            "https://cdn.pixabay.com/photo/2017/07/15/13/50/training-2506422_1280.jpg",
+            "https://cdn.pixabay.com/photo/2016/11/29/13/29/sportswear-1869889_1280.jpg"
+        ],
+        "isNew": true,
+        "productName": "Compression Leggings",
+        "colors": "Black + 1 Color",
+        "price": 50
+    }
+]

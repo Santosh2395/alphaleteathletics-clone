@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HOODIES",
+    "imageUrl": "https://alphaleteathletics.com/cdn/shop/files/M_Hoodies_v4_4x5_e0cf811f-dd7e-47b5-9269-1c54e5751808.jpg?crop=center&v=1740465652&width=960",
+    "link": "/shop/hoodies"
+  },
+  {
+    "name": "SHORTS",
+    "imageUrl": "https://alphaleteathletics.com/cdn/shop/files/M_Shorts_v2_4x5_24ab18fe-4ca9-4da0-8f9e-a79716052247.jpg?crop=center&v=1740465653&width=960",
+    "link": "/shop/shorts"
+  },
+  {
+    "name": "Workouts",
+    "imageUrl": "https://alphaleteathletics.com/cdn/shop/files/M_Workout_4x5_d943b30b-32f8-4e6f-9790-f642a6e7d2ec.jpg?crop=center&v=1740465652&width=960",
+    "link": "/shop/workouts"
+  },
+  {
+    "name": "TANKS",
+    "imageUrl": "https://alphaleteathletics.com/cdn/shop/files/M_Tanks_4x5_e1872ae3-13e8-47be-985d-803939e403fa.jpg?crop=center&v=1740465652&width=960",
+    "link": "/shop/jacket"
+  },
+  {
+    "name": "SHIRTS",
+    "imageUrl": "https://alphaleteathletics.com/cdn/shop/files/M_Shirts_v2_4x5_859debf4-11c5-4de3-9183-578a5805bba8.jpg?crop=center&v=1740465652&width=960",
+    "link": "/shop/shirts"
+  },
+  {
+    "name": "PANTS",
+    "imageUrl": "https://alphaleteathletics.com/cdn/shop/files/M_Pants_v5_4x5_7cefff1e-2446-45f2-beec-b429cacc142c.jpg?crop=center&v=1740465652&width=960",
+    "link": "/shop/pants"
+  }
+]
